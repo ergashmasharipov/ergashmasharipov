@@ -1,13 +1,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ### Hi. There? I am Ergash who has overall 11 years of experience in software industry.
 
-👀 I am interested in front-end development.
 
-- 👋 Hi, I’m @ergashmasharipov
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://github.com/ergashmasharipov/ergashmasharipov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingdom553&layout=compact&hide=html&langs_count=10&title_color=fff&icon_color=79ff97&text_color=000&bg_color=fff" height=180 />
+</a>
+<a href="https://github.com/ergashmasharipov/ergashmasharipov">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingdom553&show_icons=true&include_all_commits=true&count_private=true&title_color=123&icon_color=45aa44&text_color=9f9f9f&bg_color=fff" height=180 />
+</a>
 
 
 ## ✨ Technologies and Tools
