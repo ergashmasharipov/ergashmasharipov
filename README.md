@@ -9,7 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ergashmasharipov&show_icons=true&include_all_commits=true&count_private=true&title_color=123&icon_color=45aa44&text_color=9f9f9f&bg_color=fff" height=180 />
 </a>
 
-
 ## ✨ Technologies and Tools
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
