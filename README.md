@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-### Hi. There? I am Ergash who has overall 11 years of experience in software industry.
+### Hi. There? I am Ergash who has overall 10 years of experience in software industry.
 
 
 <a href="https://github.com/ergashmasharipov/ergashmasharipov">
